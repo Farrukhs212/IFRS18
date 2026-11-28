@@ -5,7 +5,7 @@
 
 ## 1. Why This Training Matters
 
-In April 2024 the International Accounting Standards Board (IASB) issued **IFRS 18 *Presentation and Disclosure in Financial Statements***. It **replaces IAS 1**, the standard that has told companies how to lay out their financial statements for decades.
+In April 2024 the International Accounting Standards Board (IASB) issued **IFRS 18 *Presentation and Disclosure in Financial Statements***. It **replaces IAS 1**.
 
 | Key fact | Detail |
 |---|---|
@@ -67,7 +67,7 @@ Every income and expense item goes into one of five boxes:
 - **Operating profit**
 - **Profit before financing and income taxes**
 
-Today, every company defines "operating profit" its own way, so comparisons are unreliable. Under IFRS 18 everyone calculates it the **same way**.
+Today each company defines "operating profit" its own way; under IFRS 18 everyone calculates it the **same way**.
 
 ### 4.3 Before and after – same numbers, new layout
 
@@ -125,7 +125,7 @@ Operating expenses can be shown by:
 - **Function** – *what activity* it supports (cost of sales, selling, admin); or
 - a **mix** – whichever gives the most useful summary.
 
-**New rule:** if we use function (as in the example above), a note must show the totals of **depreciation, amortisation, employee benefits, impairment losses and inventory write-downs**, and how much of each sits in each line. Our cost systems must be able to produce this.
+**New rule:** if we use function (as in the example above), a note must show the totals of **depreciation, amortisation, employee benefits, impairment losses and inventory write-downs**, and how much of each sits in each line. 
 
 ### 4.5 Balance sheet change
 
@@ -204,7 +204,6 @@ Tax effect of adjustment: (36)   NCI effect: (10)
 | **FP&A** | Budgets and forecasts follow new subtotals; by-nature data needed. |
 | **Treasury** | Interest, FX and derivatives classified by category; cash-flow layout changes. |
 | **Tax** | Tax effect of each MPM adjustment. |
-| **IT** | Chart of accounts, ERP and consolidation updates. |
 | **Investor Relations** | Every public "adjusted" figure must be disclosed and reconciled. |
 | **Management / Board** | Reported operating profit may change; review KPIs, incentives and covenants. |
 
@@ -217,7 +216,6 @@ Tax effect of adjustment: (36)   NCI effect: (10)
 3. Where does share of profit of an associate go? *(Investing)*
 4. Does IFRS 18 change net profit? *(No)*
 5. Is "Adjusted operating profit" in our investor presentation an MPM? *(Yes – it must be explained and reconciled in the notes)*
-6. Interest on a bank loan goes in which category? *(Financing)*
 
 ---
 
